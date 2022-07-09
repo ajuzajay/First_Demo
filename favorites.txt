@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 chicken biriyani
 frydrice
 appam
 poratta
+=======
+split
+conjuring
+abcd
+
+>>>>>>> movies
